@@ -1,7 +1,7 @@
 {
   "name": "@j0code/node-enum",
   "version": "1.0.0",
-  "description": "Enums is javascript.",
+  "description": "Enums in javascript.",
   "main": "enum.mjs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
