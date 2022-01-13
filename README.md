@@ -1,12 +1,18 @@
 # node-enum
 Adds enums to javascript.
 
+### Install
+```sh
+npm install @j0code/node-enum
+```
 
 ### Usage / Syntax
 See a few examples below:
 - NOTE: I added Java equivalents
 
 ```js
+import Enum from "@j0code/node-enum"
+
 class MyEnum extends Enum { // public enum MyEnum {}
 
   // values
